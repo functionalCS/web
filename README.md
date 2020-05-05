@@ -1,2 +1,2 @@
 # web
-webnotes
+webnotes, should be totally rewritten, alas no time
